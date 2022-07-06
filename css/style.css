@@ -123,9 +123,9 @@ body{
     font-size: 60px;
 }
 ul li{
-    color: white;
+    color: black;
     padding: 20px;
-    background-color: #FFC0B3;
+    background-color: #f2f1ef;
     font-size: 30px;
     margin: 5px;
     text-align: center;
