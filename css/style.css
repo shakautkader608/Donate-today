@@ -191,6 +191,7 @@ ul li.address{
 footer{
     text-align: center;
     background-color: black;
+    height: 100px;
 }
 footer h1{
     color: white;
