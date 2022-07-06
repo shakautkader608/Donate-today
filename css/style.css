@@ -78,3 +78,26 @@ body{
     font-size: 20px;
 }
 
+.categorise{
+    display: flex;
+    justify-content:center;
+}
+.content{
+    width: 400px;
+    height: 300px;
+    text-align: left;
+    padding: 50px;
+    background-color: #edf5f6;
+    border-radius: 10px;
+    margin: 40px;
+    padding: 20p;
+    
+   
+}
+.bg-color1{
+    background-color:#ffeeee ;
+}
+.bg-color2{
+    background-color:#fff4d6 ;
+}
+
