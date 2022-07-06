@@ -101,3 +101,56 @@ body{
     background-color:#fff4d6 ;
 }
 
+.update-content{
+    text-align: center;
+    margin-bottom: 50px;  
+}
+.updates{
+    display: flex;
+    flex-direction: column;
+}
+
+.updates h1{
+    color: black;
+    font-size: 60px;
+    
+}
+.updates p{
+    font-size: 20px;
+}
+
+.subscribe-part{
+   
+    background-color:#FFF4D6 ;
+     
+}
+.form-part{
+    padding: 100px;
+    text-align: center;
+}
+.email{
+    padding: 15px 70px;
+    background-color:#D9D9D9;
+    color: #AA9F9F;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    
+}
+.subscribe{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+
+.subscribe-part{
+    margin: 0 400px 50px;
+}
+
+
+
+
